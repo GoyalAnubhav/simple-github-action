@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Echo a String
-    run: echo "Hello World from my side"
+      run: echo "Hello World from my side"
